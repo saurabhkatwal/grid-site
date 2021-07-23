@@ -84,7 +84,7 @@ width:100%;
 
 .main-container{
   display: grid;
-  padding: 30px 50px;
+  padding: 20px 30px;
   background-color: #ccc;
   margin: 0;
 
@@ -121,7 +121,7 @@ align-items: flex-start;
   background-color: #333;
   color:white;
   padding: 0.6rem 1.3rem;
-  margin:30px 50px;
+  margin:20px 30px;
   text-decoration: none;
 }
 .m-c-2>a:hover,.m-c-3>a:hover{
