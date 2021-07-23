@@ -161,14 +161,14 @@ body{
   line-height: 1.5;
 }
 /*___________________media queries__________________________________*/
-@media (min-width:728px) {
+/*@media (min-width:728px) {
   .main-content{
     grid-template-areas: 'm-c-1 m-c-1' 'm-c-2 m-c-3';
   }
   .btn-info{
     display:inline;
   }
-}
+}*/
 @media (min-width:900px) {
   .main-content{
     grid-template-areas: 'm-c-1 m-c-2' 'm-c-1 m-c-3';
