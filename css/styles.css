@@ -169,7 +169,7 @@ body{
     display:inline;
   }
 }*/
-@media (min-width:900px) {
+/*@media (min-width:900px) {
   .main-content{
     grid-template-areas: 'm-c-1 m-c-2' 'm-c-1 m-c-3';
   }
@@ -182,4 +182,4 @@ body{
   .btn-info{
     display:inline;
   }
-}
+}*/
